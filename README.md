@@ -3,7 +3,7 @@
   <a href="https://youtube.com/channel/https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ" target="blank"><img src="http://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=50&multiline=false&width=2000&height=80&lines=Hai+I'm+Sanz;Gua+Cuman+Orang+Biasa+Yg+Gak+Bisa+Apa²;Support+Terus+Youtube+Gua+Ya+Ngab+!+(+AmmarBN+);Uwwu+ada+yg+kepo+nih+sama+akun+github+Gua.+Jangan+lupa+follow+sama+kasih+bintang+ya+Slur+Xixi." alt="AmmarBN">
 </p> -->
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarBN&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmmarBN" /></p>
+<p><img align="center" width=70% src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarBN&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmmarBN" /></p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AmmarBN&show_icons=true&theme=dark)
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
