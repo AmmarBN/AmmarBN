@@ -4,6 +4,8 @@
 </p> -->
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarBN&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmmarBN" /></p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=AmmarBN&show_icons=true&theme=dark)
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Aing cuman belajar Otodidak Mamang-->
 <h2> Support Me On</h2>
